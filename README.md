@@ -30,11 +30,17 @@
 + There are 44 ICBM CN male subjects with feature files.
 
 + There are 390 ADNI MCI male subjects with feature files.
+
 <br/><br/>
 
 ## Machine Learning Methods:
 
-+ The irregular domain of the brain will be changed into a graph. I am using GCN (Graph Convolutional Neural Network)using `Python`. Each subject’s brain will be
++ The irregular domain of the brain is changed into a graph. I am using GCN (Graph Convolutional Neural Network) using `Python`. Each subject’s brain will be
 represented by a graph of around 100K nodes. At each node some morphological brain measures are calculated.
 
-+
++ The GCN model is trained using the control healthy subjects (23 Normal OSA + 152 ADNI CN Male + 44 ICBM Males). The total number of CN subjects for training is 219 subjects.
+
++ The trained model is tested on the three test groups: OSA with CI, OSA without CI, and ADNI MCI.
+
++ I am using two features cortical thickness, and grey matter white matter ratio.
+
