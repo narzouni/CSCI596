@@ -46,5 +46,5 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 <br/><br/>
 ![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp =50x)
 
-<img src="https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp" width="50" height="50" />
+<img src="https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp" width="500" height="500" />
 
