@@ -44,5 +44,5 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 + I am using two features cortical thickness, and grey matter white matter ratio.
 <br/><br/>
-![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp =100x20)
+![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp =100x)
 
