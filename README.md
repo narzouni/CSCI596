@@ -2,6 +2,8 @@
 
 ## The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia.
 
+![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp)
+
 <br/><br/>
 
 
@@ -44,7 +46,7 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 + I am using two features cortical thickness, and grey matter white matter ratio.
 <br/><br/>
-![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp =50x)
+
 
 <img src="https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp" width="500" height="500" />
 
