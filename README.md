@@ -50,6 +50,13 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 + I am using two features cortical thickness, and grey matter white matter ratio.
 <br/><br/>
 
+# Using CSCI596 Concepts:
+
++ This work will be computationally intensive since there will be 100K nodes per subject and some features per node.
+
++ I am using MPI and OpenMP with python to parallelize and accelerate computations.
+
+
 
 
 
