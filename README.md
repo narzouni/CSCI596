@@ -3,8 +3,8 @@
 ## The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia.
 
 <p float="left">
-<img src="https://github.com/narzouni/CSCI596/blob/main/BrainMRI.jpg" width="500" height="400" />
-<img src="https://github.com/narzouni/CSCI596/blob/main/BrainNodes.jpg" width="500" height="400" />
+<img src="https://github.com/narzouni/CSCI596/blob/main/BrainMRI.jpg" width="400" height="400" />
+<img src="https://github.com/narzouni/CSCI596/blob/main/BrainNodes.jpg" width="400" height="400" />
 </p>
 
 <br/><br/>
