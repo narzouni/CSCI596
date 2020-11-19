@@ -2,9 +2,8 @@
 
 ## The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia.
 
-[//]: # ![Brain](https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp)
 
-<img src="https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp" width="800" height="800" />
+<img src="https://github.com/narzouni/CSCI596/blob/main/brainnetwork.bmp" width="800" height="700" />
 
 <br/><br/>
 
