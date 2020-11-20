@@ -61,6 +61,10 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 ## Links/References:
 #### [The emerging field of signal processing on graphs.](https://ieeexplore.ieee.org/document/6494675)
 #### [Convolutional neural networks on graphs with fast localized spectral filtering.](https://dl.acm.org/doi/10.5555/3157382.3157527)
+#### [Parallel programming with MPI for Python](https://rabernat.github.io/research_computing/parallel-programming-with-mpi-for-python.html)
+#### [Tutorial: MPI for Python](https://mpi4py.readthedocs.io/en/stable/tutorial.html)
+#### [Running Python with OpenMP parallelization](https://scicomp.aalto.fi/triton/examples/python/python_openmp/python_openmp/)
+
 
 
 
