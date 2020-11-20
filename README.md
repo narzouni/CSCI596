@@ -1,6 +1,6 @@
 # CSCI596 Final Project
 
-## The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia.
+## ++ The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia. ++
 
 <p float="left">
 <img src="https://github.com/narzouni/CSCI596/blob/main/BrainMRI.jpg" width="400" height="400" />
