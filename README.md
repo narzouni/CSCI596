@@ -59,7 +59,8 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 <br/><br/>
 ## Links/References:
-### [The emerging field of signal processing on graphs.](https://ieeexplore.ieee.org/document/6494675)
+#### [The emerging field of signal processing on graphs.](https://ieeexplore.ieee.org/document/6494675)
+#### [Convolutional neural networks on graphs with fast localized spectral filtering.](https://dl.acm.org/doi/10.5555/3157382.3157527)
 
 
 
