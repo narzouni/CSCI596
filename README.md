@@ -1,6 +1,6 @@
 # CSCI596 Final Project
 
-++ The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia. ++
+## The association of Obstructive Sleep Apnea Syndrome (OSAS) with Cognitive Impairment and Dementia. 
 
 <p float="left">
 <img src="https://github.com/narzouni/CSCI596/blob/main/BrainMRI.jpg" width="400" height="400" />
@@ -56,6 +56,10 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 + I am using MPI and OpenMP with python to parallelize and accelerate computations.
 
+
+<br/><br/>
+## Links/References:
+### [The emerging field of signal processing on graphs.](https://ieeexplore.ieee.org/document/6494675)
 
 
 
