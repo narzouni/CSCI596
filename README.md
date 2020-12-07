@@ -60,6 +60,7 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 <img src="https://github.com/narzouni/CSCI596/blob/main/TrainingCNDataMoca.png" width="600" height="400" />
 
+<img src="https://github.com/narzouni/CSCI596/blob/main/ComparisonOSAandMCIMocaU.png" width="600" height="400" />
 
 <br/><br/>
 ## Links/References:
