@@ -58,7 +58,7 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 ## Some Results:
 
-<img src="https://github.com/narzouni/CSCI596/blob/main/TrainingCNDataMocaU.png" width="400" height="400" />
+<img src="https://github.com/narzouni/CSCI596/blob/main/TrainingCNDataMoca.png" width="400" height="400" />
 
 
 <br/><br/>
