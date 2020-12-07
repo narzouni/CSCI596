@@ -62,6 +62,8 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 <img src="https://github.com/narzouni/CSCI596/blob/main/ComparisonOSAandMCIMocaU.png" width="600" height="400" />
 
+<img src="https://github.com/narzouni/CSCI596/blob/main/Speedup.jpg" width="600" height="400" />
+
 <br/><br/>
 ## Links/References:
 #### [The emerging field of signal processing on graphs.](https://ieeexplore.ieee.org/document/6494675)
