@@ -56,6 +56,10 @@ represented by a graph of around 100K nodes. At each node some morphological bra
 
 + I am using MPI and OpenMP with python to parallelize and accelerate computations.
 
+## Some Results:
+
+
+
 
 <br/><br/>
 ## Links/References:
